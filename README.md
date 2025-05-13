@@ -1,14 +1,16 @@
-<div align='center'>
+
 
 <h1><b>On-stage</b></h1>
 
 </div>
 
-![main](https://github.com/user-attachments/assets/96d66df8-5c05-4cc6-bbce-c5896ca0ea85)
+![main](https://github.com/user-attachments/assets/887e4a00-4741-4b73-b524-cafee3ad6485)
 
-- [프로젝트 노션 링크](https://www.notion.so/elice-track/On-stage-13d2bb984257806e8077f6b1a009ca61)
+- [프로젝트 노션 링크](https://rune-fireman-627.notion.site/On-stage-1f24a3420e2080c0868fead21c3f51f1)
 - [와이어프레임](https://www.figma.com/design/fjMokfGOPgvKJO29VlIGt1/On-stage%2C-low-wireframe?node-id=23-11&node-type=frame&t=72zKfi5JbfFqyO8p-0)
-- [ERD](https://www.erdcloud.com/d/u2cjEzwbFqdgYj4Rq)
+- [ERD]
+  <br>
+  <img src="https://github.com/user-attachments/assets/ac49bb31-6a8e-4647-b10d-5c4e2ac79044" height="400">
 
 ---
 
@@ -28,7 +30,7 @@
 
 |                                                           <div align="center">고준수</div>                                                           |                                            <div align="center">신영광</div>                                             |                                            <div align="center">현태훈</div>                                             |                                            <div align="center">안송희</div>                                             |                                            <div align="center">유호성</div>                                             |
 |:--------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------:|
-| <img src="https://github.com/user-attachments/assets/5f9baf9d-e071-4561-a732-5fe9e7f48ce4" height="150" width="145"> | <img src="https://github.com/user-attachments/assets/283a36ad-f231-4550-b2a6-01acdfb84e58" height="150" width="145"> | <img src="https://github.com/user-attachments/assets/f1095182-ebe2-4dfc-a2d4-36015ba179f0" height="150" width="145"> | <img src="https://github.com/user-attachments/assets/004fc4c5-eae0-49ce-b3e2-0b41b6ade585" height="150" width="145"> | <img src="https://github.com/user-attachments/assets/7017ad0b-7e21-4ba6-9f6e-585952dc8ba6" height="150" width="145"> |
+| <img src="https://github.com/user-attachments/assets/5f9baf9d-e071-4561-a732-5fe9e7f48ce4" height="150" width="145"> | <img src="https://github.com/user-attachments/assets/283a36ad-f231-4550-b2a6-01acdfb84e58" height="150" width="145"> | <img src="https://github.com/user-attachments/assets/f1095182-ebe2-4dfc-a2d4-36015ba179f0" height="150" width="145"> | <img src="https://github.com/user-attachments/assets/004fc4c5-eae0-49ce-b3e2-0b41b6ade585" height="150" width="145"> | <img src="https://github.com/user-attachments/assets/62b28e6a-81bc-4cd3-a349-3f2cbbadcede" height="150" width="145"> |
 |                                       [@SuranS2](https://github.com/SuranS2/)                                        |                                       [@HVLOSHIN](https://github.com/HVLOSHIN)                                       |                                         [@hthoon](https://github.com/hthoon)                                         |                                         [@soooii](https://github.com/soooii)                                         |                                       [@homi5435](https://github.com/homi5435)                                       |
 
 ---
@@ -110,7 +112,7 @@
 ---
 
 ## 📂 6. Project Architecture
-<img src="https://github.com/user-attachments/assets/eec82781-72ec-40df-b58b-27adbf48be44" height="400">
+<img src="https://github.com/user-attachments/assets/6af09c30-8502-4fb8-acb1-c2c79be55810" height="400">
 
 
 ---
@@ -120,13 +122,13 @@
 
 | <div align="center">홈 화면</div>                                                                           | <div align="center">로그인</div>                                                                                     | <div align="center">로그아웃</div>                                                                           |
 |----------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|
-| <img src="https://github.com/user-attachments/assets/9489634b-1c8f-43bd-864d-3780eea53f19" height="150"> | <img src="https://github.com/user-attachments/assets/9c76cfd2-4fac-4ae1-a481-88921359f2d2" width="200" height="150"> | <img src="https://github.com/user-attachments/assets/e88b3df9-3645-4df9-95f1-275c705fddd7" height="150"> |
+| <img src="https://github.com/user-attachments/assets/710737e4-c857-4af4-bd3d-fd7f9793d037" height="150"> | <img src="https://github.com/user-attachments/assets/9c76cfd2-4fac-4ae1-a481-88921359f2d2" width="200" height="150"> | <img src="https://github.com/user-attachments/assets/e88b3df9-3645-4df9-95f1-275c705fddd7" height="150"> |
 
 ### 2) 메인 화면
 
 | <div align="center">프로필 설정</div>                                                                         | <div align="center">링크 생성</div>                                                                          | <div align="center">테마 설정</div>                                                                          |
 |----------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|
-| <img src="https://github.com/user-attachments/assets/69b224f3-861f-4b43-b23f-03b2fc4ca012" height="150"> | <img src="https://github.com/user-attachments/assets/567ab1d3-bfb8-4abe-b61d-5f5bcc9632d5" height="150"> | <img src="https://github.com/user-attachments/assets/30bbd90f-2f24-4aa4-b838-93b48920a5d1" height="150"> |
+| <img src="https://github.com/user-attachments/assets/b8bc8578-c557-4219-b69b-62d553115691" height="150"> | <img src="https://github.com/user-attachments/assets/7dbd1692-6d77-4c58-aa1d-e38f57f8aad6" height="150"> | <img src="https://github.com/user-attachments/assets/319503c8-ba9b-4cc5-a077-56638610857b" height="150"> |
 
 ### 3) 아티스트 정보
 
